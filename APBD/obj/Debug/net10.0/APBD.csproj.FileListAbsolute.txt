@@ -1,0 +1,14 @@
+C:\Users\Anton\RiderProjects\APBD\APBD\bin\Debug\net10.0\APBD.exe
+C:\Users\Anton\RiderProjects\APBD\APBD\bin\Debug\net10.0\APBD.deps.json
+C:\Users\Anton\RiderProjects\APBD\APBD\bin\Debug\net10.0\APBD.runtimeconfig.json
+C:\Users\Anton\RiderProjects\APBD\APBD\bin\Debug\net10.0\APBD.dll
+C:\Users\Anton\RiderProjects\APBD\APBD\bin\Debug\net10.0\APBD.pdb
+C:\Users\Anton\RiderProjects\APBD\APBD\obj\Debug\net10.0\APBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\RiderProjects\APBD\APBD\obj\Debug\net10.0\APBD.AssemblyInfoInputs.cache
+C:\Users\Anton\RiderProjects\APBD\APBD\obj\Debug\net10.0\APBD.AssemblyInfo.cs
+C:\Users\Anton\RiderProjects\APBD\APBD\obj\Debug\net10.0\APBD.csproj.CoreCompileInputs.cache
+C:\Users\Anton\RiderProjects\APBD\APBD\obj\Debug\net10.0\APBD.dll
+C:\Users\Anton\RiderProjects\APBD\APBD\obj\Debug\net10.0\refint\APBD.dll
+C:\Users\Anton\RiderProjects\APBD\APBD\obj\Debug\net10.0\APBD.pdb
+C:\Users\Anton\RiderProjects\APBD\APBD\obj\Debug\net10.0\APBD.genruntimeconfig.cache
+C:\Users\Anton\RiderProjects\APBD\APBD\obj\Debug\net10.0\ref\APBD.dll
